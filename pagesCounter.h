@@ -1,0 +1,2 @@
+int totalSpaceInMem;
+int freeSpaceInMem;
